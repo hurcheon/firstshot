@@ -1,9 +1,6 @@
 # firstshot
 Just the starting Hello World repository
-<<<<<<< ours
 
 This is the Master version
 
-Indeed
-=======
->>>>>>> theirs
+Merged weith the readme-edits version
